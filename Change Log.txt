@@ -1,0 +1,46 @@
+|"""""""""\\\\\\\\\\\\\\\\\____________________________________
+|                                                              \
+|                        Passion-Lab's                         |
+|                                                              |
+|                                                              |
+|                  E  V  A  L  U  A  T  O  R                   |
+|                                                              |
+|                                                              |
+|                                                     v.1.1.0  |
+\______________________________________///////////////""""""""""
+
+Symbol index:
+ * = Available features
+ + = Added new features (What's new)
+ ~ = Upcoming features
+ . = Encountered bugs/issues
+ - = Fixed bugs/issues
+
+
+Version 1.1.0 (Portable + zip) "Early Rising - Great Title"
+------------------------------------------------------------
+What's New:
+ + Title bar now able to show the final result upon evaluation
+
+Upcoming features:
+ ~ Custom title bar
+ ~ Day (bright) & Night (dark) themes
+ ~ About the app button and window
+ ~ Final result copy button
+
+Bugs fixed:
+ - None
+
+
+Version 1.0.0 (Portable) "Early Rising - Origin"
+------------------------------------------------------------
+Features:
+ * Four basic numerical operations viz., addition, substraction, multiplication, division
+ * Two additional operation of square and square root
+ * Button to clear the display screen
+ * Keyboad input of numbers (0-9) and four basic operators (viz., +, -, / and *)
+ * Enter key shortcut to evaluate and display the result
+ * Escape key shortcut to for clearing display
+
+Bugs:
+ . Previous evaluation result should clear while pressing of any number without clearing the screen
